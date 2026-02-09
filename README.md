@@ -114,7 +114,7 @@ FileShare/
 ### Key Components
 
 - **MainInterface**: Primary GUI window for application interaction
-- **SendCommand/RecieveCommand**: Handle network communication protocols
+- **SendCommand/ReceiveCommand**: Handle network communication protocols
 - **DialogConnectToServer**: Connection establishment dialog
 - **JFrame_select_items**: File selection interface
 - **Dialog_Download_Files**: Download progress tracking
