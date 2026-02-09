@@ -174,14 +174,5 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 This project is available for use and modification. Please check with the repository owner for specific licensing terms.
 
-## 👤 Author
-
-**vian** (xeloyzus)
-
-## 📧 Contact
-
-For questions, issues, or suggestions, please open an issue on the [GitHub repository](https://github.com/xeloyzus/FileShare/issues).
-
----
 
 **Note**: This is a peer-to-peer file sharing application intended for use on trusted local networks. Users are responsible for ensuring compliance with applicable laws and regulations regarding file sharing.
